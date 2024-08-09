@@ -42,7 +42,7 @@ img.vector {
     /* margin: auto; */
     position: relative;
     display: flex;
-    width: 100%;
+    /* width: 100%; */
     padding: 31px 0;
     align-items: center;
 }
@@ -137,9 +137,7 @@ img.vector {
 
 .top-center {
     height: 746px;
-    width: 1320px;
-    /* background-color: red; */
-    /* margin: auto; */
+    /* width: 1320px; */
     position: relative;
     /* padding: 81px 200px 60px 0; */
     padding-top: 81px;
@@ -158,14 +156,11 @@ img.vector {
 }
 
 .top-center-left p.collect {
-    /* position: absolute; */
     margin-top: 73px;
     font-size: 74px;
     font-family: "Roboto", sans-serif;
     text-transform: capitalize;
-    /* padding: 0 0 52px 0; */
     font-weight: 300px;
-    /* padding: 73px 0 0 0; */
 }
 
 .top-center-left p.script {
@@ -184,7 +179,7 @@ img.vector {
 
 .brand {
     margin: auto;
-    width: 1320px;
+    /* width: 1320px; */
     display: flex;
     justify-content: space-between;
     padding: 90px 0;
@@ -295,7 +290,7 @@ h2 {
 }
 
 .card {
-    width: 312px;
+    /* width: 312px; */
 }
 
 .category-price {
@@ -434,14 +429,6 @@ p.category-notsale {
 .slider-products {
     margin-top: 139px;
 }
-
-
-/* .slider-products h2 {
-    margin-left: 526px;
-} */
-
-
-/* newsletter- instagram */
 
 .newsletter-instagram {
     background-color: #f4f4f5;
