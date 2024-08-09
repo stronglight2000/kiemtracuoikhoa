@@ -128,8 +128,9 @@ img.vector {
 .menu ul li a {
     text-decoration: none;
     color: black;
-    font-family: "Roboto", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 16px;
+    font-weight: 400;
 }
 
 
@@ -160,13 +161,14 @@ img.vector {
     font-size: 74px;
     font-family: "Roboto", sans-serif;
     text-transform: capitalize;
-    font-weight: 300px;
+    font-weight: 300;
 }
 
 .top-center-left p.script {
     font-size: 30px;
     font-family: "Roboto", sans-serif;
     line-height: 55px;
+    font-weight: 400;
 }
 
 .top-center-left button {
@@ -494,6 +496,7 @@ button.hold {
 
 .left-footer p {
     font-family: "Open Sans", sans-serif;
+    /* font-weight: 400; */
 }
 
 .logo-footer {
@@ -549,7 +552,7 @@ button.hold {
     color: black;
 }
 
-.right-footer ul li a:first-child {
+.right-footer ul li:first-child a {
     font-size: 16px;
 }
 
